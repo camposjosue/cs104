@@ -1,0 +1,19 @@
+HW2
+
+Problem #1
+
+(a) README.md - unmodified
+(b) README.md - modified
+	fun_problem.txt - unmodified
+(c) README.md - staged
+	fun_problem.txt - staged
+(d) README.md - modified
+	fun_problem.txt - modified
+(e) README.md - staged
+	fun_problem.txt - unmodified
+	fun_problem.txt is now empy becuase that is how our file is on github.
+(f) README.md is now modified becuase it was never
+ 	commited before adding onto it
+
+Problem #6
+	All the functions have a runtime theta(1). Since we have a pointer to the tail we immediately know where to go to add, to pop, and to return the top. In addition the empty function is just a direct comparison with size and zero.

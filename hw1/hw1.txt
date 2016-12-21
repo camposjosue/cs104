@@ -1,0 +1,27 @@
+Homework 1
+
+Problem #1
+
+Part(a) Which of the following are acceptable behaviours in solving homeoworks/projects?
+	Ans: 1, 3, 5
+
+Part(b) Which of the following are recommended ways of writing code?
+	Ans: emacs, sublime, vim
+
+Part(c) What is the late submission policy?
+	Ans: 3
+
+Part(d) Read the late submission policy If using a grace day(s) you should commit your code via Github and then...
+	Ans: 4
+
+Problem #2
+
+Part(a) Which of the following git user interfaces are accepted and supported in this course?
+	Ans:
+
+Part(b) Provide the appropriate git commands
+	Ans: git add hw1q2b.cpp
+		 git log
+
+Part(c) What will git do? (git commit)
+	Ans: Tracks changes to files
